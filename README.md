@@ -15,9 +15,13 @@ FileFlow is a modern file organization tool built using Python and CustomTkinter
 ## Screenshots
 
 ![Main UI (Dark)](screenshots/Main_dark.png)
+
 ![Main UI (Light)](screenshots/Main_light.png)
+
 ![Preview function](screenshots/Preview.png)
+
 ![Organized files](screenshots/Organized_files.png)
+
 ![Duplicate detection](screenshots/Duplicate_detection.png)
 
 ## Technologies Used
