@@ -1,6 +1,6 @@
 # FileFlow 2026
 
-FileFlow is a modern file organization tool built using Python and CustomTkinter created by me
+FileFlow is a Python-based modern file organization tool that automatically sorts files into folders.
 
 ## Features
 
