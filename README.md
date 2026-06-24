@@ -1,6 +1,6 @@
 # FileFlow 2026
 
-FileFlow is a Python-based modern file organization tool that automatically sorts files into folders.
+FileFlow is a Python-based file organization tool that automatically sorts files into folders based on file type, helping users keep their downloads and documents organized.
 
 ## Features
 
@@ -34,7 +34,7 @@ FileFlow is a Python-based modern file organization tool that automatically sort
 
 ## Download
 
-Download the latest FileFlow.exe from Releases.
+Download the latest FileFlow.exe from [releases](https://github.com/K-SuhasM/FileFlow/releases)
 
 ## Author
 
