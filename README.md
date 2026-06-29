@@ -14,15 +14,15 @@ FileFlow is a Python-based file organization tool that automatically sorts files
 
 ## Screenshots
 
-![Main UI (Dark)](screenshots/Main_dark.png)
+![Main UI (Dark)](Screenshots/Main_dark.png)
 
-![Main UI (Light)](screenshots/Main_light.png)
+![Main UI (Light)](Screenshots/Main_light.png)
 
-![Preview function](screenshots/Preview.png)
+![Preview function](Screenshots/Preview.png)
 
-![Organized files](screenshots/Organized_files.png)
+![Organized files](Screenshots/Organized_files.png)
 
-![Duplicate detection](screenshots/Duplicate_detection.png)
+![Duplicate detection](Screenshots/Duplicate_detection.png)
 
 ## Technologies Used
 
